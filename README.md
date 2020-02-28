@@ -1,3 +1,14 @@
+# Установка
+
+Установить зависимости командой `npm install`<br>
+Запустить клиент командой `npm start`<br>
+Запустить сервер командой `node server.js`<br>
+Зайти на `http://localhost:3000`<br>
+Тестить<br>
+
+Сервер висит на порту 7070. Порт должен быть свободен.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
